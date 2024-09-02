@@ -88,8 +88,8 @@
         <mxCell id="5xCHBFTwe_UNU5cE1isP-31" value="消息推送给用户界面流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5xCHBFTwe_UNU5cE1isP-32" value="回复消息流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-320" y="-60" width="120" height="60" as="geometry" />
+        <mxCell id="5xCHBFTwe_UNU5cE1isP-32" value="oa里回复消息流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-440" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xCHBFTwe_UNU5cE1isP-34">
           <mxGeometry relative="1" as="geometry">
