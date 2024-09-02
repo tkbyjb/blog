@@ -82,9 +82,6 @@
         <mxCell id="5xCHBFTwe_UNU5cE1isP-24" value="用户界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="720" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5xCHBFTwe_UNU5cE1isP-27" value="推送消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-285" y="578" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-29" value="推送消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="475" y="738" width="70" height="30" as="geometry" />
         </mxCell>
