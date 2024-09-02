@@ -71,7 +71,7 @@
           <mxGeometry x="275" y="668" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-22" value="给这个channel推送message和这个message的session信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="201.01" y="740" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-23" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="568" width="40" height="30" as="geometry" />
