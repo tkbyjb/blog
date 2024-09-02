@@ -127,11 +127,19 @@
         <mxCell id="5xCHBFTwe_UNU5cE1isP-44" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-270" y="418" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5xCHBFTwe_UNU5cE1isP-45" value="同步session详情和dant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5xCHBFTwe_UNU5cE1isP-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xCHBFTwe_UNU5cE1isP-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-255" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5xCHBFTwe_UNU5cE1isP-45" value="同步session详情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-315" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-46" value="推送失败原因给前端展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-90" y="328" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5xCHBFTwe_UNU5cE1isP-49" value="等待平台推送这条消息过来再推送给前端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-315" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
