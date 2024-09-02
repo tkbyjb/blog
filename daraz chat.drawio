@@ -93,53 +93,61 @@
         </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xCHBFTwe_UNU5cE1isP-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-260" y="210" as="targetPoint" />
+            <mxPoint x="-380" y="208" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-34" value="点击回复信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-320" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="-440" y="48" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-36" value="ws推送发送消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-260" y="150" width="110" height="30" as="geometry" />
+          <mxGeometry x="-380" y="148" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xCHBFTwe_UNU5cE1isP-37" target="5xCHBFTwe_UNU5cE1isP-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-37" value="调用平台接口发送信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-320" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="-440" y="208" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xCHBFTwe_UNU5cE1isP-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-90" y="358" as="targetPoint" />
+            <mxPoint x="-210" y="356" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xCHBFTwe_UNU5cE1isP-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-260" y="490" as="targetPoint" />
+            <mxPoint x="-380" y="488" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-38" value="是否&lt;div&gt;发送成功&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-315" y="318" width="110" height="80" as="geometry" />
+          <mxGeometry x="-435" y="316" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-43" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-160" y="328" width="40" height="30" as="geometry" />
+          <mxGeometry x="-280" y="326" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-44" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-270" y="418" width="40" height="30" as="geometry" />
+          <mxGeometry x="-390" y="416" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xCHBFTwe_UNU5cE1isP-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-255" y="610" as="targetPoint" />
+            <mxPoint x="-375" y="608" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-45" value="同步session详情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-315" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="-435" y="488" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-46" value="推送失败原因给前端展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-90" y="328" width="120" height="60" as="geometry" />
+          <mxGeometry x="-210" y="326" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5xCHBFTwe_UNU5cE1isP-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xCHBFTwe_UNU5cE1isP-49" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-40" y="638" />
+              <mxPoint x="-40" y="100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-49" value="等待平台推送这条消息过来再推送给前端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-315" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="-435" y="608" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
