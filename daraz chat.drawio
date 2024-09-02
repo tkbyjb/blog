@@ -70,11 +70,20 @@
         <mxCell id="5xCHBFTwe_UNU5cE1isP-21" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="275" y="668" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5xCHBFTwe_UNU5cE1isP-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5xCHBFTwe_UNU5cE1isP-22" target="5xCHBFTwe_UNU5cE1isP-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-22" value="给这个channel推送message和这个message的session信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="201.01" y="740" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5xCHBFTwe_UNU5cE1isP-23" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="568" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5xCHBFTwe_UNU5cE1isP-24" value="用户进入daraz聊天界面,前端通过ws连接到netty server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5xCHBFTwe_UNU5cE1isP-26" value="接收消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="840" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
